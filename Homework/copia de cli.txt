@@ -1,0 +1,3 @@
+npm install -g mongodb-realm-cli
+realm-cli login --api-key <my-api-key> --private-api-key <my-private-api-key>
+realm-cli pull --remote application-0-irrhg
